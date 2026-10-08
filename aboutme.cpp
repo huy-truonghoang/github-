@@ -1,5 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout << "NULL"; 
+   for(int i=1; i<=10; i++){
+       cout << "conflict"; 
+   }
 }
